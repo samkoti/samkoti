@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksamkoti=self.webpackChunksamkoti||[]).push([[7118],{6199:t=>{t.exports=JSON.parse('{"title":"C#","slug":"/category/c","permalink":"/docs/category/c","navigation":{"next":{"title":"C# Introduction","permalink":"/docs/C-Sharp/c-sharp-intro"}}}')}}]);
