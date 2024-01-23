@@ -1,12 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Tutorial Intro
+# .NET Platform
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **.NET**.
 
-## Getting Started here
+## Getting Started
 
 Get started by **creating a new site**.
 

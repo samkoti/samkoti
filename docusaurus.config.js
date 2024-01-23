@@ -68,9 +68,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'SamKoti',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'SamKoti',
           src: 'img/logo.svg',
         },
         items: [
@@ -78,11 +78,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '.NET',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/samkoti',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,10 +92,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '.NET',
             items: [
               {
-                label: 'Tutorial',
+                label: '.NET',
                 to: '/docs/intro',
               },
             ],
@@ -126,12 +126,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/samkoti',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SamKoti. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
